@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I Am Filip!<br><br>🧠 Computer Science student at AGH university</br><br>🌐 Data Software Engineering Trainee at EPAM</br><br>🔭 Currently developing Web Apps using Django, Flask and FastAPI</br><br>🐍 Python enjoyer </br><br>📊 Love working with data</br><br>🏎️ Formula 1 enthusiast (F1 related project coming soon!)</br>
+Hi, I Am Filip!<br><br>🧠 Computer Science student at AGH university</br>🐍 Python enjoyer </br><br>📊 Love working with data</br><br>🏎️ Formula 1 enthusiast (F1 related project coming soon!)</br>
 
 
 ## 🌐 Socials:
