@@ -1,30 +1,30 @@
-```
-sok205@github:~$ neofetch
+```ansi
+[36msok205@github:~$ neofetch[0m
 
-  ▓▓▒▒░░
-  ▒▒░░
-  ░░
-      ░░░░░░░░░░░░░░░░░░░░░░░░░░                     sok205@filip
-      ░░                      ░░                      ---------------
-      ░░                      ░░                      OS: macOS, Linux
-    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░                   Languages: Rust, Python, TypeScript, C++
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░                 Focus: DeFi Infrastructure, Quantitative Systems, AI
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░               University: AGH Krakow, CS
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░               Infra
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░               -----
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░               Kafka, ClickHouse, Postgres, Docker, SolidJS
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░               Developed
-░░                                  ░░               ---------
-░░    ████                  ████    ░░               ionic.trade
-░░  ██  ████              ██  ████  ░░
-░░  ████████              ████████  ░░               Contact
-░░  ░░████    ██      ██    ████░░  ░░               -------
-░░  ░░░░        ██████        ░░░░  ░░               Email: sokfil205@gmail.com
-░░                                  ░░               Website: sokowirowka.dev
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░               LinkedIn: filip-sokolowski
-        ░░░░░░          ░░░░░░
+[32m  ▓▓▒▒░░[0m
+[32m  ▒▒░░[0m
+[32m  ░░[0m
+[33m      ░░░░░░░░░░░░░░░░░░░░░░░░░░[0m                     [1m[36msok205[0m@[1m[36mfilip[0m
+[33m      ░░                      ░░[0m                      [1m[36m---------------[0m
+[33m      ░░                      ░░[0m                      [1m[36mOS:[0m macOS, Linux
+[33m    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[0m                   [1m[36mLanguages:[0m Rust, Python, TypeScript, C++
+[33m  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[0m                 [1m[36mFocus:[0m DeFi Infrastructure, Quantitative Systems, AI
+[33m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[0m               [1m[36mUniversity:[0m AGH Krakow, CS
+[33m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[0m
+[33m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[0m               [1m[36mInfra[0m
+[33m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[0m               [1m[36m-----[0m
+[33m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[0m               Kafka, ClickHouse, Postgres, Docker, SolidJS
+[33m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[0m
+[33m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[0m               [1m[36mDeveloped[0m
+[33m░░[0m[1;37m                                  [0m[33m░░[0m               [1m[36m---------[0m
+[33m░░[0m[1;37m    ████                  ████    [0m[33m░░[0m               ionic.trade
+[33m░░[0m[1;37m  ██  ████              ██  ████  [0m[33m░░[0m
+[33m░░[0m[1;37m  ████████              ████████  [0m[33m░░[0m               [1m[36mContact[0m
+[33m░░[0m[1;37m  ░░████    ██      ██    ████░░  [0m[33m░░[0m               [1m[36m-------[0m
+[33m░░[0m[1;37m  ░░░░        ██████        ░░░░  [0m[33m░░[0m               Email: sokfil205@gmail.com
+[33m░░[0m[1;37m                                  [0m[33m░░[0m               Website: sokowirowka.dev
+[33m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[0m               LinkedIn: filip-sokolowski
+[33m        ░░░░░░          ░░░░░░[0m
 ```
 
 ## Tech Stack
@@ -51,7 +51,7 @@ sok205@github:~$ neofetch
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Sok205&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=Sok205&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Sok205&theme=dark&hide_border=true)
 
 ---
