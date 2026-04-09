@@ -1,12 +1,10 @@
 ```console
 sok205@github:~$ neofetch
 
-  ▓▓▒▒░░
-  ▒▒░░
-  ░░
+
       ░░░░░░░░░░░░░░░░░░░░░░░░░░                     sok205@filip
-      ░░                      ░░                      ---------------
-      ░░                      ░░                      OS: macOS, Linux
+      ░░                      ░░                     ---------------
+      ░░                      ░░                     OS: macOS, Linux
     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░                   Languages: Rust, Python, TypeScript, C++
   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░                 Focus: DeFi Infrastructure, Quantitative Systems, AI
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░               University: AGH Krakow, CS
